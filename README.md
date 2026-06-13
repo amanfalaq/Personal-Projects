@@ -5,3 +5,5 @@ The projects demonstrate:
   Real-time data processing
   Hardware-software integration
   System-level thinking (input → processing → output)
+## 📄 Documentation
+[View Full Project Report](project-report.pdf)
