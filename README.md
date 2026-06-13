@@ -6,4 +6,4 @@ The projects demonstrate:
   Hardware-software integration
   System-level thinking (input → processing → output)
 ## 📄 Documentation
-[View Full Project Report](project-report.pdf)
+[View Full Project Report](docs/project-report.pdf)
